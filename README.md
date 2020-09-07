@@ -1,1 +1,1 @@
-# osrs_mining_bot
+# osrs-mining-bot
